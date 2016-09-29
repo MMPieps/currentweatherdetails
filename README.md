@@ -1,4 +1,4 @@
-# Module: Current Weather Details
+# Module: Current Weather Details (based on default weatherforecast module)
 
 This module displays the weather forecast for the next hours, including an an icon to display the current conditions, the mean temperature and the precipitation per hour.
 
