@@ -1,0 +1,14 @@
+.currentweatherdetails .day {
+  padding-left: 0;
+  padding-right: 25px;
+}
+
+.currentweatherdetails .weather-icon {
+  padding-right: 30px;
+  text-align: center;
+}
+
+.currentweatherdetails .min-temp {
+  padding-left: 20px;
+  padding-right: 0;
+}
